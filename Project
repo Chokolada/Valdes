@@ -1,0 +1,83 @@
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Практична</title>
+   <link rel="stylesheet" href="C:\style.css">
+ </head>
+ <body>
+  <header>Чемпіонат Эвропи 2020 <img width="100px" height="100px" src="C:\Users\maksy\OneDrive\Рабочий стол\1200px-UEFA_Euro_2020_Logo.svg.png" alt="картинки не буде"></header>
+  <div class="Head">
+    <h3>Чемпіонат Європи з футболу 2020 року, або скорочено Євро-2020 — 16-й чемпіонат Європи з футболу, який відбувався від 11 червня до 11 липня 2021 року. Планували провести турнір у червні—липні 2020 року, однак через пандемію COVID-19 у Європі змагання відтермінували на рік. Попри це, вирішили зберегти оригінальну назву чемпіонату «Євро-2020».<br>Турнір відбувся в 11 різних містах 11-ти країн Європи. Португалія захищала свій титул, але поступилася в 1/8 фіналу збірній Бельгії. Уперше в історії турніру застосовується система VAR.<br>
+    У фіналі, що відбувся 11 липня 2021 року на стадіоні «Вемблі» в Лондоні, який приймав його вдруге після Євро-1996, перемогу здобула збірна Італії над збірною Англії в серії післяматчевих пенальті з рахунком 3:2, основний та додатковий час завершився внічию 1:1.</h3>
+  </div>
+  <div class="Evro">Найбільші стадіони, що приймали Євро-2020</div>
+  <div class="stad_1"><img width="120px" height="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wembley-Stadion_2013_16x10.jpg/200px-Wembley-Stadion_2013_16x10.jpg" alt="Стіон 1">
+  <h5>Лондон</h5>Стадіон:Вемблі <br>Місткість:90 000</div>
+
+  <div class="stad_2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/M%C3%BCnchen_-_Allianz-Arena_%28Luftbild%29.jpg/200px-M%C3%BCnchen_-_Allianz-Arena_%28Luftbild%29.jpg" alt="Stad_2">
+   <h5>Мюнхен</h5>
+   Стадіон: Альянц Арена <br>
+   Місткість: 70 000</div>
+   <div class="stad_3"><img height="150px" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/L%27Olimpico_-_panoramio.jpg/200px-L%27Olimpico_-_panoramio.jpg" alt="Stad_3">  
+    <h5>Рим</h5> <br>
+    Стадіон: Олімпійськйи стадіон<br>
+    Місткість: 70 634
+
+</div>
+<div class="pip"> Турнірна таблиця групи B</div>
+<div class="table"> 
+    <table>
+    <tr>
+    <th>Країна</th>
+    <th>Played</th>
+    <th>Won</th>
+    <th>Draws</th>
+    <th>Loses</th>
+    <th>Points</th>
+   </tr>
+   <tr>
+    <th>Україна</th>
+    <th>7</th>
+    <th>6</th>
+    <th>1</th>
+    <th>0</th>
+    <th>19</th>
+   </tr>
+   <tr>
+    <th>Португалія</th>
+    <th>7</th>
+    <th>4</th>
+    <th>2</th>
+    <th>1</th>
+    <th>14</th>
+   </tr>
+   <tr>
+    <th>Сербія</th>
+    <th>7</th>
+    <th>4</th>
+    <th>1</th>
+    <th>2</th>
+    <th>13</th>
+   </tr>
+   <tr>
+    <th>Люксембург</th>
+    <th>7</th>
+    <th>1</th>
+    <th>1</th>
+    <th>5</th>
+    <th>4</th>
+   </tr>
+   <tr>
+    <th>Литва</th>
+    <th>8</th>
+    <th>0</th>
+    <th>1</th>
+    <th>7</th>
+    <th>1</th>
+   </tr>
+    </table>
+</div>
+<div class="end">Збірна України перемогла команду Швеції в 1/8 фіналу чемпіонату Європи з футболу з рахунком 2:1. На 27-й хвилині рахунок у грі відкрили українці. З передачі Андрія Ярмоленка відзначився Олександр Зінченко. На 43-й хвилині Еміль Форсберг рахунок зрівняв. Переможний гол на рахунку Артема Довбика, який за лічені хвилини до закінчення доданого часу забив свій перший гол за збірну. 
+</div>
+ </body>
+</html>
